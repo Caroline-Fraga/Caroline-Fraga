@@ -52,6 +52,6 @@ Estou sempre buscando aprimorar minhas habilidades como desenvolvedora, exploran
 
 ## 📫 Contato
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/caroline-fraga-da-silva-a91bb9239/
+🔗 **LinkedIn:** https://www.linkedin.com/in/caroline-fraga-da-silva/
 
 Sinta-se à vontade para explorar meus projetos ou entrar em contato 🙂
