@@ -44,7 +44,7 @@ Cada projeto reflete minha evolução técnica e minha preocupação com organiz
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caroline-Fraga&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Caroline-Fraga)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-Fraga&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
