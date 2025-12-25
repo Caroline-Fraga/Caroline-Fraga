@@ -42,8 +42,6 @@ Cada projeto reflete minha evolução técnica e minha preocupação com organiz
 
 ## 📊 GitHub Stats
 
-![Caroline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caroline-Fraga&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-Fraga&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
@@ -56,6 +54,6 @@ Estou sempre buscando aprimorar minhas habilidades como desenvolvedora, exploran
 
 ## 📫 Contato
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/caroline-fraga-da-silva/
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-fraga-da-silva/)
 
 Sinta-se à vontade para explorar meus projetos ou entrar em contato 🙂
