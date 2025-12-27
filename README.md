@@ -59,10 +59,8 @@ Estou sempre buscando aprimorar minhas habilidades como desenvolvedora, exploran
 
 ## 📫 Contato
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-fraga-da-silva/)
+- [![GitHub](https://img.shields.io/badge/Repo-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Caroline-Fraga/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Caroline%20Fraga-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-fraga-da-silva/)
 
-</div>
 
 Sinta-se à vontade para explorar meus projetos ou entrar em contato 🙂
