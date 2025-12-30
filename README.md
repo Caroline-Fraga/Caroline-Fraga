@@ -43,10 +43,18 @@ Cada projeto reflete minha evolução técnica e minha preocupação com organiz
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caroline-Fraga&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Caroline-Fraga&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false"
+    height="150"
+    alt="GitHub stats Caroline Fraga"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Caroline-Fraga&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    height="150"
+    alt="Linguagens mais usadas"
+  />
 </div>
+
 
 ---
 
